@@ -1,16 +1,11 @@
-## Hi there 👋
+- 👋 Hi, my name is Ashay Gupta
+- 👀 I’m interested in learning about coding 
+- 🌱 I’m currently studying Data Structures  and Algorithms
+- 📫 I have active accounts on X and LinkedIn, which I have linked to my profile 
+- 😄 Pronouns: he/him
+- 📚 Regarding my progress on X, you can check it out if you are interested
 
-<!--
-**ashayguptaa/ashayguptaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+Ashaygupta18/Ashaygupta18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
